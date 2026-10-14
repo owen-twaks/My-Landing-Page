@@ -106,6 +106,8 @@ export const services: Service[] = [
     tagline: 'Be seen. Be remembered.',
     summary:
       'We turn your brand into high-impact visual presence that attracts attention at events, sites and activations — custom printed gazebos, banners, flags and more.',
+    image: '/image2/service 4.jpeg',
+    imageAlt: 'Event branding solutions including pop-up canopy tents, feather flags, backdrop banners and retractable banner stands',
     icon: 'display',
     bullets: [
       'Branded gazebos, banners and flags',
@@ -120,6 +122,8 @@ export const services: Service[] = [
     tagline: 'Crisp colour, serious volume.',
     summary:
       'A cost-effective way to brand large garment orders. Bold, opaque ink coverage built for high-volume runs where consistency across every unit matters.',
+    image: '/image2/service 5.jpeg',
+    imageAlt: 'Bulk screen printing specialists producing vibrant printed T-shirts and apparel on an industrial rotary screen printing machine',
     icon: 'collateral',
     bullets: [
       'Best value on high-volume runs',
