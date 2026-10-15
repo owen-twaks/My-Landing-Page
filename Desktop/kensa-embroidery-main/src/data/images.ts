@@ -27,4 +27,10 @@ export const imageSizes: Record<string, { width: number; height: number }> = {
   '/image2/service 4.jpeg': { width: 1600, height: 900 },
   '/image2/service 5.jpeg': { width: 1600, height: 900 },
   '/image2/service 6.jpeg': { width: 1600, height: 900 },
+  '/images/cat-corporate-clothing.jpeg': { width: 1200, height: 800 },
+  '/images/cat-notebooks.jpeg': { width: 1200, height: 800 },
+  '/images/cat-hoodies-tshirts.jpeg': { width: 1200, height: 800 },
+  '/images/cat-caps-hats.jpeg': { width: 1200, height: 800 },
+  '/images/cat-diaries-bottles.jpeg': { width: 1200, height: 800 },
+  '/images/cat-workwear-ppe.jpeg': { width: 1200, height: 800 },
 };
