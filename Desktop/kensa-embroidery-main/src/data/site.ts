@@ -106,8 +106,8 @@ export const services: Service[] = [
     tagline: 'Be seen. Be remembered.',
     summary:
       'We turn your brand into high-impact visual presence that attracts attention at events, sites and activations — custom printed gazebos, banners, flags and more.',
-    image: '/image2/service 4.jpeg',
-    imageAlt: 'Event branding solutions including pop-up canopy tents, feather flags, backdrop banners and retractable banner stands',
+    image: '/image2/service_4.png',
+    imageAlt: 'Branded gazebos, banners, feather flags, backdrop banners and retractable banner stands for indoor and outdoor events and site activations',
     icon: 'display',
     bullets: [
       'Branded gazebos, banners and flags',
@@ -122,8 +122,8 @@ export const services: Service[] = [
     tagline: 'Crisp colour, serious volume.',
     summary:
       'A cost-effective way to brand large garment orders. Bold, opaque ink coverage built for high-volume runs where consistency across every unit matters.',
-    image: '/image2/service 5.jpeg',
-    imageAlt: 'Bulk screen printing specialists producing vibrant printed T-shirts and apparel on an industrial rotary screen printing machine',
+    image: '/image2/service_5.png',
+    imageAlt: 'Industrial rotary screen printing machine producing vibrant printed T-shirts and apparel in high-volume bulk runs',
     icon: 'collateral',
     bullets: [
       'Best value on high-volume runs',
@@ -138,8 +138,8 @@ export const services: Service[] = [
     tagline: 'Branded items people actually keep.',
     summary:
       'Cards, flyers, corporate gifts, notebooks, pens, mugs, caps and bags — professional marketing collateral and promotional items that carry your brand far beyond the office.',
-    image: '/image2/service 6.jpeg',
-    imageAlt: 'Marketing materials and promotional items including business cards, brochures, calendars, diaries and stickers',
+    image: '/image2/service_6.png',
+    imageAlt: 'Business cards, brochures, calendars, diaries, promotional stickers and corporate gifting items for brand marketing',
     icon: 'gifts',
     bullets: [
       'Business cards and flyers',
